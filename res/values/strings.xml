@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">simplePhone</string>
+    <string name="help">Pick a contact then choose an action !</string>
+    <string name="pickContact">Pick a contact</string>
+    <string name="callContact">Call</string>
+    <string name="sendSMS">Send an SMS</string>
+    <string name="readContact">Read the SMS</string>
+    <string name="takePicture">Take a picture</string>
+    <string name="seePicture">See the pictures</string>
+    <string name="sendMMS">Send a picture</string>
+    <string name="noContact">No contact chosen.</string>
+    <string name="noCamera">No camera found.</string>
+</resources>
